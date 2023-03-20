@@ -5,3 +5,5 @@
 - git y github estan relacionados
 
 - practica de texto versionado
+
+- nuevo texto agregado practica git clone
